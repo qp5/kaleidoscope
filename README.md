@@ -26,7 +26,7 @@ Goals of the Project<br>
 <br><br>
 
 Estimated Start <br>
-We aim to kick off development between now and February 2025, see [timeline] of early beta release targeted.
+Start development between now and February 2025, see [timeline] of early beta release targeted.
 <br><br>
 
 Invitation to Coders & Collaborators<br>

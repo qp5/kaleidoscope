@@ -4,13 +4,13 @@ Seeking collaborators, members, and coders to help shape and grow this innovativ
 <br>
 <br>
 <br>
-# ABOUT
+## ABOUT
 <br>
 <br>
 <br>
 <br>
 <br>
-### License
+## License
 
 This project is licensed under two licenses:
 - **GPL-3.0 License** for personal and open-source use. You are free to use, modify, and distribute the code under the terms of the [GPL-3.0 License](link-to-GPL-license).

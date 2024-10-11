@@ -36,7 +36,7 @@ Each addon will exist within individual GitHub repos. Major coding languages are
 
 
 ## Note to Investors<br>
-While this is an open-source project, there is significant potential for monetization through premium features, addons, and community growth. If you’re interested in investing in a scalable and AI-powered platform with a growing user base, we’d love to hear from you. We aim to make this project a cornerstone for self-insight.
+While this is an open-source project, there is potential for monetization through premium features, addons, and community growth. If you’re interested in investing in a scalable and AI-powered platform with a growing user base, we’d love to hear from you.
 <br><br>
 <br>
 

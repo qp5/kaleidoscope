@@ -15,10 +15,11 @@ Personal development, compititioins, discover new insight through AI-driven tool
 
 DEVELOPERS<br>
 Goals of the Project<br>
- - Build a cross-platform app using Flutter (Android, iOS, Web) with a focus on user experience.
- - Allow third-party developers to create custom addons and extensions for additional functionality.
+ - Cross-platform app using Flutter (Android, iOS, Web) with user experience focus.
+ - Allow third-party developers to create Addons to extend app functionality.
  - Provide a secure, scalable backend with real-time data syncing and analytics.
  - Open-source development to foster community contributions and innovations.
+ -     📫 Send <a href="mailto: support@bowhip.org">feedback</a>
 <br><br>
 
 Estimated Start <br>

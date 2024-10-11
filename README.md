@@ -1,10 +1,10 @@
-# kaleidoscope <small>(Code name)</small>
+# kaleidoscope <small>(code name)</small>
 Wanted: coders & collaborators <!--to help shape and grow this innovative project.-->
 <br>
 <br>
 <br>
 ## ABOUT <br>
-Welcome to a project that combines AI-driven content delivery with user-generated developer Addons creating a dynamic space to engage in discovery and optionaly interact with others.
+kaleidoscope combines AI-driven content delivery with user-generated developer Addons creating a dynamic space to engage in discovery and optionaly interact with others.
 <br><br>
 
 Join this open source project, whether you're a developer, as a collaborator, or an investor, this platform offers opportunities for you to shape its future. 

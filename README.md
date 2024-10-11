@@ -23,7 +23,7 @@ Goals of the Project<br>
 <br><br>
 
 Estimated Start <br>
-Start development between now and February 2025, see [timeline] of early beta release targeted.
+Start development now between October 2024 and February 2025, see [timeline] of early beta release targeted.
 <br><br>
 
 Invitation to Coders & Collaborators<br>

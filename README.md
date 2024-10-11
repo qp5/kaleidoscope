@@ -27,7 +27,7 @@ Start development now between October 2024 and February 2025, see [timeline] of 
 <br><br>
 
 Invitation to Coders & Collaborators<br>
-If you're passionate about open-source development, AI integrations, or creating a modular platform, we invite you to join this exciting project. As a coder, you’ll have the opportunity to build core features or contribute addons through GitHub repos. We are particularly interested in Flutter developers for the main app, but all coding backgrounds are welcome for addon creation.
+Build core features with flutter, and use any code language for Addons within GitHub, all coding backgrounds are welcome.
 <br><br>
 
 Addon Development Notes for Developers<br>

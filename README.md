@@ -30,8 +30,8 @@ Invitation to Coders & Collaborators<br>
 Build core features with flutter, and use any code language for Addons within GitHub, all coding backgrounds are welcome.
 <br><br>
 
-Addon Development Notes for Developers<br>
-Each addon will live in a separate GitHub repository, allowing flexibility for developers. Major coding languages are acceptable since the core app will integrate the addons into the platform (support for iOS and Android). If needed, tools for code conversion between platforms can be used to ease the process for single-platform developers.
+Addon Development<br>
+Each addon will exist within individual GitHub repos. Major coding languages are acceptable; core app will integrate addons within platform (support for iOS and Android). Tools for code conversion between platforms can be used to ease process for developers.
 <br><br><br>
 
 

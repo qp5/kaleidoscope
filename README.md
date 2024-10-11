@@ -10,8 +10,7 @@ kaleidoscope combines AI-driven content delivery with user-generated developer A
 Mobile-first platform. Leveraging video & text content delivery, Relateable AI, and developer Addons.
 <br><br>
 
-Purpose of the App
-The app is designed to help users develop, participate in group compititioin, and discover new insight through AI-driven toolsets. With a focus on gamified experiences and social sharing.
+Personal development, compititioins, discover new insight through AI-driven toolsets. With a focus on gamified experiences and social sharing.
 <br><br>
 
 DEVELOPERS<br>

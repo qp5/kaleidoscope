@@ -19,7 +19,7 @@ Goals of the Project<br>
  - Allow third-party developers to create Addons to extend app functionality.
  - Provide a secure, scalable backend with real-time data syncing and analytics.
  - Open-source development to foster community contributions and innovations. <br><br>
-    📫 Send <a href="mailto: support@bowhip.org">feedback</a>
+    📫 View project | Request project access <a href="mailto: support@bowhip.org">feedback</a>
 <br><br>
 
 Estimated Start <br>

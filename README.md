@@ -7,9 +7,6 @@ Wanted: coders & collaborators <!--to help shape and grow this innovative projec
 kaleidoscope combines AI-driven content delivery with user-generated developer Addons, creating a dynamic space to engage in discovery.
 <br><br>
 
-Join this open source project. Whether you're a developer, collaborator, or an investor, this platform offers opportunities for you to shape its future. 
-<br><br>
-
 Project aims to build a mobile-first platform. Leveraging video and text content delivery, AI interaction, and developer Addons.
 <br><br>
 

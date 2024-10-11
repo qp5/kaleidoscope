@@ -7,7 +7,7 @@ Wanted: coders & collaborators <!--to help shape and grow this innovative projec
 kaleidoscope combines AI-driven content delivery with user-generated developer Addons, creating a dynamic space to engage in discovery.
 <br><br>
 
-Mobile-first platform. Leveraging video and text content delivery, AI interaction, and developer Addons.
+Mobile-first platform. Leveraging video and text content delivery, AI interactive, and developer Addons.
 <br><br>
 
 Purpose of the App

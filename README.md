@@ -18,7 +18,7 @@ Goals of the Project<br>
  - Cross-platform app using Flutter (Android, iOS, Web) with user experience focus.
  - Allow third-party developers to create Addons to extend app functionality.
  - Provide a secure, scalable backend with real-time data syncing and analytics.
- - Open-source development to foster community contributions and innovations.
+ - Open-source development to foster community contributions and innovations. <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a>
 <br><br>
 

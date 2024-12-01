@@ -1,5 +1,5 @@
 # kaleidoscope <small>(code name)</small>
-Wanted: <a href="mailto: support@bowhip.org">coders & collaborators</a> <!--to help shape and grow this innovative project.-->
+<a href="mailto: support@bowhip.org">coders & collaborators</a> Wanted! <!--to help shape and grow this innovative project.-->
 <br>
 <br>
 ## ABOUT
@@ -15,9 +15,10 @@ Combines AI assisted content delivery with user-generated developer Addons.
 DEVELOPER
  - Cross-platform flutter build. Open source development to foster community contribution.
       - STACK: Flutter / AS / IntelliJ & GitHub Copilot / Supabase & Python
- - Third-party Addons: Developers can create github integrated Addons to extend app functionality.  Addon metrics dashboard.<br>
+ - Third-party Addons: Developers can create github integrated Addons to extend app functionality.  Addon metrics dashboard.
+   <br><br>
  
- 📫 Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
+  📫 Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 <b>GOALS</b><br>

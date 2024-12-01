@@ -6,7 +6,7 @@
 Mobile-first platform. Leveraging video & text content delivery, relatable AI, and developer Addons. 
 <br>
 
-Open-Source Platform for Insight & optional social interaction. Code name [kaleidoscope] a dynamic space to engage insight discovery.
+Open-Source Platform for Insight & optional social interaction. Code name [kaleidoscope] a dynamic space to build, restore, and engage insight discovery.
 <br>
 
 Combines AI assisted content delivery with user-generated developer Addons.
@@ -18,15 +18,15 @@ DEVELOPER
  - Third-party Addons: Developers can create github integrated Addons to extend app functionality.  Addon metrics dashboard.
    <br><br>
  
-  📫 Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
+  📫 View <a href="mailto: support@bowhip.org">project</a>     Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 <b>GOALS</b><br>
-Build the app using Flutter.
-Prioritize a seamless user experience across devices.
-<br><br>
-Addon System:<br>
-Git integrated third-party developers Addons w/ addon metrics dashboard.
+<!--Build the app using Flutter.
+Prioritize a seamless user experience across devices.-->
+Foster community contributions and paid sponsorships. Encourage innovation through collaborative development.
+<br>
+Addons: Git integrated third-party developer Addons with Addon metrics dashboard.
 Clear guidelines and APIs for Addon development.
 <br>
 <!--Backend Features:
@@ -35,12 +35,10 @@ Real-time data syncing.
 Built-in analytics to track usage and performance.
 Open-Source Approach:-->
 
-Foster community contributions by making the app and its addons open-source.
-Encourage innovation through collaborative development.
 
 
 Estimated Start <br>
-Start development February 2025, see [timeline] of early app store release.
+Start project now to April 2025, see [timeline] of early app store release.
 <br><br>
 
 Invitation to Coders & Collaborators<br>

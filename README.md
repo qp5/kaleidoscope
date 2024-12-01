@@ -64,5 +64,4 @@ While this is an open-source project, there is potential for monetization throug
 
 
 Contact: Adkinscc@gmail.com<br>
-For more information see [more about].
 

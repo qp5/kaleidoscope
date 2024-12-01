@@ -39,8 +39,6 @@ Foster community contributions by making the app and its addons open-source.
 Encourage innovation through collaborative development.
 
 
-
-
 Estimated Start <br>
 Start development now between October 2024 and February 2025, see [timeline] of early beta release targeted.
 <br><br>

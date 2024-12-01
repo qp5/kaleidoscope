@@ -1,26 +1,48 @@
 # kaleidoscope <small>(code name)</small>
-Wanted: coders & collaborators <!--to help shape and grow this innovative project.-->
+Wanted: <a href="mailto: support@bowhip.org">coders & collaborators</a> <!--to help shape and grow this innovative project.-->
 <br>
 <br>
+## ABOUT
+Mobile-first platform. Leveraging video & text content delivery, relatable AI, and developer Addons. 
 <br>
-## ABOUT <br>
-kaleidoscope combines AI-driven content delivery with user-generated developer Addons, creating a dynamic space to engage in discovery.
+
+Open-Source Platform for Insight & optional social interaction. Code name [kaleidoscope] a dynamic space to engage insight discovery.
+<br>
+
+Combines AI assisted content delivery with user-generated developer Addons.
 <br><br>
 
-Mobile-first platform. Leveraging video & text content delivery, Relateable AI, and developer Addons.
-<br><br>
-
-Personal development, compititioins, discover new insight through AI-driven toolsets. With a focus on gamified experiences and social sharing.
-<br><br>
-
-DEVELOPERS<br>
-Goals of the Project<br>
- - Cross-platform app using Flutter (Android, iOS, Web) with user experience focus.
- - Allow third-party developers to create Addons to extend app functionality.
- - Provide a secure, scalable backend with real-time data syncing and analytics.
- - Open-source development to foster community contributions and innovations. <br><br>
+DEVELOPER<br>
+Primary Objectives
+ - Cross-platform flutter build. Open source development to foster community contribution.
+      - STACK: Flutter / AS / IntelliJ & GitHub Copilot / Supabase & Python
+ - Third-party Addons: Developers can create github integrated Addons to extend app functionality.  Addon metrics dashboard.
+ - Supabase & Python backend. Real-time data syncing, analytics.
+ <br><br>
     📫 Access <a href="mailto: support@bowhip.org">project</a>
 <br><br>
+
+Primary Objectives:
+Cross-Platform Compatibility:
+
+Build the app using Flutter to support Android, iOS, and Web.
+Prioritize a seamless user experience across devices.
+Addon System:
+
+Enable third-party developers to create and integrate Addons for extended functionality.
+Provide clear guidelines and APIs for Addon development.
+Backend Features:
+
+Secure, scalable infrastructure.
+Real-time data syncing.
+Built-in analytics to track usage and performance.
+Open-Source Approach:
+
+Foster community contributions by making the app and its addons open-source.
+Encourage innovation through collaborative development.
+
+
+
 
 Estimated Start <br>
 Start development now between October 2024 and February 2025, see [timeline] of early beta release targeted.

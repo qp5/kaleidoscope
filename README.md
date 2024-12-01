@@ -51,7 +51,7 @@ Each addon will exist within individual GitHub repos. Major coding languages are
 
 
 ## Investors<br>
-While this is an open-source project, there is potential for monetization through premium features, addons, and community growth. If you’re interested in investing in a scalable and AI-powered platform with a growing user base, we’d love to hear from you.
+While this is an open-source project, there is potential for monetization through premium features, addons, and community growth. If you’re interested in investing in a scalable and AI-powered platform with a growing user base, we’d love to <a href="mailto: support@bowhip.org">hear from you</a>.
 <br><br>
 <br>
 

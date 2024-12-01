@@ -58,6 +58,6 @@ While this is an open-source project, there is potential for monetization throug
 ## Available License
 - GPL-3.0 License for personal and open-source use. You are free to use, modify, and distribute the code under the terms of the GPL-3.0 License.
 - Commercial License for selling or distributing the project for profit or in bulk. Please contact <a href="mailto: support@bowhip.org">commercial license </a> for more infomation.
-- Third-party Addons: Both open-source and private licenses supported. 
+- Third-party Addons: Open source and private licenses supported. 
 
 Contact: Adkinscc@gmail.com<br>

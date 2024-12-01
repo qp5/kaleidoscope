@@ -1,5 +1,5 @@
 # kaleidoscope <small>(code name)</small>
-<a href="mailto: support@bowhip.org">coders & collaborators</a> Wanted! <!--to help shape and grow this innovative project.-->
+ Wanted! <a href="mailto: support@bowhip.org">coders & collaborators</a> <!--to help shape and grow this innovative project.-->
 <br>
 <br>
 ## ABOUT

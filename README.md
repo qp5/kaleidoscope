@@ -16,10 +16,9 @@ DEVELOPER
  - Cross-platform flutter build. Open source development to foster community contribution.
       - STACK: Flutter / AS / IntelliJ & GitHub Copilot / Supabase & Python
  - Third-party Addons: Developers can create github integrated Addons to extend app functionality.  Addon metrics dashboard.
- <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
- <br>
-    📫 Access <a href="mailto: support@bowhip.org">project</a>
-<br><br>
+  </br>
+ 📫 Access <a href="mailto: support@bowhip.org">project</a><br><br><br>
+<!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 <b>GOALS</b><br>
 Build the app using Flutter.

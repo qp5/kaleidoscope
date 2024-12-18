@@ -6,7 +6,7 @@
 Mobile-first platform. Leveraging video & text content delivery, relatable AI, and developer Addons. 
 <br>
 
-Open-Source Platform for Insight & optional social interaction. Code name [kaleidoscope] a dynamic space to build, restore, and engage insight discovery.
+Open-Source Platform for self Insight & optional social interaction. Code name [kaleidoscope] a dynamic space to build, restore, and engage insight discovery.
 <br>
 
 Combines AI assisted content delivery with user-generated developer Addons.

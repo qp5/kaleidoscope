@@ -1,4 +1,4 @@
-# kaleidoscope <small>(code name)</small>
+# kaleidoscope 
  Wanted! <a href="mailto: support@bowhip.org">coders & collaborators</a> <!--to help shape and grow this innovative project.-->
 <br>
 <br>

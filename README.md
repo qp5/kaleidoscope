@@ -1,7 +1,7 @@
 # kaleidoscope 
- Wanted! <a href="mailto: support@bowhip.org">coders & collaborators</a> <!--to help shape and grow this innovative project.-->
-<br>
-<br>
+  Wanted! <a href="mailto:support@bowhip.org">coders</a> & <a href="mailto:support@bowhip.org">collaborators</a> to shape this innovative project.
+ <!--Wanted! <a href="mailto:support@bowhip.org">coders</a> | <a href="mailto:support@bowhip.org">collaborators</a> to help shape and grow this innovative project.--><br><br>
+   
 ## ABOUT
 Mobile-first platform leveraging video & text content delivery, relatable AI, and developer Addons. 
 <br>
@@ -20,6 +20,14 @@ DEVELOPER
  
   📫 View <a href="mailto: support@bowhip.org">project</a>     Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
+
+
+
+## Mission of bowHip<br>
+Intent of bowHip is two fold. With individuals it is to help discover and free self from flubugs.<br>
+Intent of bowHip with organizations is to support organizations to help individuals within their organization to self improve.<br>
+To help organization to observe it's impact on their self and surrounding. Provide content, tools, material for organizations relating to those goals.<br>
+<br><br>
 
 <b>GOALS</b><br>
 <!--Build the app using Flutter.

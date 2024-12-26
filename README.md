@@ -1,21 +1,16 @@
 # kaleidoscope 
-  Wanted! <a href="mailto:support@bowhip.org">coders</a> & <a href="mailto:support@bowhip.org">collaborators</a> to shape this innovative project.
- <!--Wanted! <a href="mailto:support@bowhip.org">coders</a> | <a href="mailto:support@bowhip.org">collaborators</a> to help shape and grow this innovative project.--><br><br>
-   
-## ABOUT
-Mobile-first platform leveraging video & text content delivery, relatable AI, and developer Addons. 
+Let’s Build Together!  <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a> 
+<!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->
 <br>
 
-Open-Source Platform for self Insight & optional social interaction. Code name [kaleidoscope] a dynamic space to build, restore, and engage insight discovery.
-<br>
-
-Combines AI assisted content delivery with user-generated developer Addons.
+## Project
+Kaleidoscope (code name) is a mobile-first platform that provides relatable AI to a content delivery platform, has tools for self-discovery and open-source collaboration. It offers mobile Addons for developers. App is for individuals and organizations. 
 <br><br>
 
 DEVELOPER
  - Cross-platform flutter build. Open source development to foster community contribution.
       - STACK: Flutter / AS / IntelliJ & GitHub Copilot / Supabase & Python
- - Third-party Addons: Developers can create github integrated Addons to extend app functionality.  Addon metrics dashboard.
+ - Third-party Addons: Developers can create github integrated Addons to extend app functionalit and Addon metrics dashboard.
    <br><br>
  
   📫 View <a href="mailto: support@bowhip.org">project</a>     Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
@@ -24,25 +19,17 @@ DEVELOPER
 
 
 ## Mission of bowHip<br>
-Intent of bowHip is two fold. With individuals it is to help discover and free self from flubugs.<br>
-Intent of bowHip with organizations is to support organizations to help individuals within their organization to self improve.<br>
-To help organization to observe it's impact on their self and surrounding. Provide content, tools, material for organizations relating to those goals.<br>
-<br><br>
+The mission of bowHip is twofold:<br>
+To empower self-discovery of the individual and freedom from limitations fostering self insight.<br>
+For Organizations: To support them in empowering their members and observing world impact, offering tools and materials to those goals.
+<br><br><br>
 
-<b>GOALS</b><br>
-<!--Build the app using Flutter.
-Prioritize a seamless user experience across devices.-->
-Foster community contributions and paid sponsorships. Encourage innovation through collaborative development.
+## Goals
+Foster community <a href="mailto:support@bowhip.org">contributions</a> funded by paid sponsorships and <a href="mailto:support@bowhip.org">investors</a>. Encourage innovation through collaborative development.
 <br>
-Addons: Git integrated third-party developer Addons with Addon metrics dashboard.
+Addons: Git integrated third-party developer <a href="mailto:support@bowhip.org">Addons</a> with Addon metrics dashboard.
 Clear guidelines and APIs for Addon development.
 <br>
-<!--Backend Features:
-Secure, scalable infrastructure.
-Real-time data syncing.
-Built-in analytics to track usage and performance.
-Open-Source Approach:-->
-
 
 
 Estimated Start <br>

@@ -1,22 +1,22 @@
 # kaleidoscope 
 Let’s Build Together!  <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a> 
 <!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->
+
+
 <br>
 
 ## Project
-Kaleidoscope (code name) is a mobile-first platform that provides relatable AI to a content delivery platform, has tools for self-discovery and open-source collaboration. It offers mobile Addons for developers. App is for individuals and organizations. 
+Kaleidoscope (code name) is a mobile-first platform that combines relatable AI, content delivery, mobile addons, and open-source collaboration; developed for individuals and organizations. 
 <br><br>
 
 DEVELOPER
  - Cross-platform flutter build. Open source development to foster community contribution.
-      - STACK: Flutter / AS / IntelliJ & GitHub Copilot / Supabase & Python
- - Third-party Addons: Developers can create github integrated Addons to extend app functionalit and Addon metrics dashboard.
+      - STACK: Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python.
+ - Third-party Addons: Developers can create github integrated Addons to extend app functionality | Addon metrics dashboard. Create addons using your prefered launguage.
    <br><br>
- 
-  📫 View <a href="mailto: support@bowhip.org">project</a>     Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
+
+📫 View <a href="mailto: support@bowhip.org">project</a>     Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
-
-
 
 ## Mission of bowHip<br>
 The mission of bowHip is twofold:<br>
@@ -24,21 +24,18 @@ To empower self-discovery of the individual and freedom from limitations fosteri
 For Organizations: To support them in empowering their members and observing world impact, offering tools and materials to those goals.
 <br><br><br>
 
-## Goals
-Foster community <a href="mailto:support@bowhip.org">contributions</a> funded by paid sponsorships and <a href="mailto:support@bowhip.org">investors</a>. Encourage innovation through collaborative development.
-<br>
-Addons: Git integrated third-party developer <a href="mailto:support@bowhip.org">Addons</a> with Addon metrics dashboard.
-Clear guidelines and APIs for Addon development.
-<br>
-
-
-Estimated Start <br>
-Start project now to April 2025, see [timeline] of early app store release.
+## Goals<br>
+ - Encourage community-driven growth and monetization through premium features.<br>
+ - Community <a href="mailto:support@bowhip.org">contributions</a> funded by paid sponsorships from <a href="mailto:support@bowhip.org">investors</a>.<br>
+ - Clear API guidelines for third-party Addon development.<br>
 <br><br>
 
-Invitation to Coders & Collaborators<br>
-Build core features with flutter, and use any code language for Addons within GitHub, all coding backgrounds are welcome.
+
+Start Day<br>
+Groundwork development is <a href="mailto:support@bowhip.org">active now</a>, the Flutter build scheduled to begin April 2025; anticipated app store release June-July 2025.
 <br><br>
+
+
 
 Addon Development<br>
 Each addon will exist within individual GitHub repos. Major coding languages are acceptable; core app will integrate addons within platform (support for iOS and Android). Tools for code conversion between platforms can be used to ease process for developers.
@@ -46,13 +43,25 @@ Each addon will exist within individual GitHub repos. Major coding languages are
 
 
 ## Investors<br>
-While this is an open-source project, there is potential for monetization through premium features, addons, and community growth. If you’re interested in investing in a scalable and AI-powered platform with a growing user base, we’d love to <a href="mailto: support@bowhip.org">hear from you</a>.
-<br><br>
-<br>
+While this is an open-source project, there is potential for monetization through premium features, addons, and community growth.  .
 
-## Available License
-- GPL-3.0 License for personal and open-source use. You are free to use, modify, and distribute the code under the terms of the GPL-3.0 License.
-- Commercial License for selling or distributing the project for profit or in bulk. Please contact <a href="mailto: support@bowhip.org">commercial license </a> for more infomation.
-- Third-party Addons: Open source and private licenses supported. 
+If you’re interested in investing in a scalable and AI-powered platform with a growing user base, we’d love to. <a href="mailto: support@bowhip.org">Contact us</a> for more details or a pitch deck.
+<br><br><br>
 
-Contact: Adkinscc@gmail.com<br>
+
+## Available License<br>
+GPL-3.0: Free for personal and open-source use.<br>
+Commercial License (for profit use): <a href="mailto:support@bowhip.org">Contact us</a>.<br>
+Third-party Addons: Supports both open-source and private licenses.<br><br>
+
+Join Us!
+We look forward to hearing from you! Whether you’re a seasoned developer or just starting, contribute to the core app or create Addons in your preferred language.
+
+📫 Contact: support@bowhip.org | Adkinscc@gmail.com
+
+
+## Join Us!<br>
+Look forward to hearing from you. Assist development of app core and or develop Addons with your preferred language.<br>
+📫 Contact: support@bowhip.org | Adkinscc@gmail.com<br>
+
+

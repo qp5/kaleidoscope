@@ -1,18 +1,15 @@
 # kaleidoscope 
 Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a> 
 <!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->
-
-
 <br>
-
 ## Project
-Kaleidoscope (code name) is a mobile-first platform that combines relatable AI, content delivery, mobile addons, and open-source collaboration; developed for individuals and organizations. 
+Kaleidoscope (code name) is a mobile-first platform combining relatable AI, content delivery, mobile addons, and open-source collaboration; App for is for both individuals and organizations. 
 <br><br>
 
 DEVELOPER
- - Cross-platform flutter build. Open source development to foster community contribution.
+ - Cross-plattfom build. Open source development to foster community contribution.
       - STACK: Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python.
- - Third-party Addons: Developers can create github integrated Addons to extend app functionality | Addon metrics dashboard. Create addons using your prefered launguage.
+ - Third-party Addons: Developers can create github copilot integrated Addons with their own code laungage to extend app functionality | Addon metrics dashboard.
    <br><br>
 
 📫 View <a href="mailto: support@bowhip.org">project</a>     Access <a href="mailto: support@bowhip.org">project</a><br><br><br><br>
@@ -61,7 +58,7 @@ We look forward to hearing from you! Whether you’re a seasoned developer or ju
 
 
 ## Join Us!<br>
-Look forward to hearing from you. Assist development of app core and or develop Addons with your preferred language.<br>
-📫 Contact: support@bowhip.org | Adkinscc@gmail.com<br>
+I look forward to hearing from you. Assist with app core, develop Addons of your language, Affilate, Invest, Partner.<br>
+📫 Contact: support@bowHip.org | Adkinscc@gmail.com<br>
 
 

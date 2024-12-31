@@ -4,7 +4,7 @@ Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>�
 <br>
 
 ### Project
-Kaleidoscope (code name) is a mobile-first platform combining relatable AI, content delivery, mobile addons, and open-source collaboration; App for is for both individuals and organizations. 
+Kaleidoscope (code name) is a mobile-first platform combining relatable AI, Content delivery, with Mobile addons, and Open-source collaboration; App for is for both individuals and organizations. 
 <br><br>
 
 DEVELOPER

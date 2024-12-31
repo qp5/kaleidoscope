@@ -2,7 +2,8 @@
 Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a> 
 <!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->
 <br>
-## Project
+
+### Project
 Kaleidoscope (code name) is a mobile-first platform combining relatable AI, content delivery, mobile addons, and open-source collaboration; App for is for both individuals and organizations. 
 <br><br>
 

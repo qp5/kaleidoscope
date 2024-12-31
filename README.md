@@ -4,13 +4,13 @@ Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>�
 <br>
 
 ### Project
-Kaleidoscope (code name) is a mobile-first platform combining relatable AI, Content delivery, with Mobile addons, and Open-source collaboration; App for is for both individuals and organizations. 
+Kaleidoscope (code name) is a mobile-first platform combining relatable AI, Content delivery, Addons (User Extensions), and Open-source collaboration; App for is for both individuals and organizations. 
 <br><br>
 
 DEVELOPER
  - Cross-plattfom build. Open source development to foster community contribution.
       - STACK: Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python.
- - Third-party Addons: Developers can create github copilot integrated Addons with their own code laungage to extend app functionality | Addon metrics dashboard.<br>
+ - Third-party Addons: Developers can create github copilot integrated Addons of own code laungage to extend app functionality | Addon metrics dashboard.<br>
    📫 View <a href="mailto: support@bowhip.org">project</a> <br><br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 

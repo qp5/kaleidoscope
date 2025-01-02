@@ -14,10 +14,9 @@ DEVELOPER
    📫 View <a href="mailto: support@bowhip.org">project</a> <br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
-## Mission of bowHip<br>
-The mission of bowHip is twofold:<br>
-To empower self-discovery of the individual and freedom from limitations fostering self insight.<br>
-For Organizations: To support them in empowering their members and observing world impact, offering tools and materials to those goals.
+## Mission of project<br>
+1. To empower self-discovery of the individual and freedom from limitations fostering self insight.<br>
+2. For Organizations: To support them in empowering their members and observing world impact, offering tools and materials to those goals.
 <br><br><br>
 
 ## Goals<br>

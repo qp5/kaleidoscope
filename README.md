@@ -9,7 +9,7 @@ Kaleidoscope (code name) is a mobile-first platform combining relatable AI, Cont
 
 DEVELOPER
  - Cross-plattfom build. Open source development to foster community contribution.
-      - STACK: Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python.
+      - <b>Stackpath</b> Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python & option: Pocketbase for user mgt.
  - Third-party Addons: Developers can create github copilot integrated Addons of own code laungage to extend app functionality | Addon metrics dashboard.<br>
    📫 View <a href="mailto: support@bowhip.org">project</a> <br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->

@@ -15,8 +15,8 @@ DEVELOPER
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 ## Mission of project<br>
-1. To empower self-discovery of the individual and freedom from limitations fostering self insight.<br>
-2. For Organizations: To support them in empowering their members and observing world impact, offering tools and materials to those goals.
+1. A social app to empower self-discovery fostering self insight.<br>
+3. For Organizations: To support them in empowering their members and observing world impact, offering tools and materials to those goals.
 <br><br><br>
 
 ## Goals<br>

@@ -20,7 +20,7 @@ DEVELOPER
 <br><br><br>
 
 ## Goals<br>
- - Encourage community-driven growth and monetization through premium features.<br>
+ - App goals, encourage community-driven growth and monetization through premium features.<br>
  - Community <a href="mailto:support@bowhip.org">contributions</a> funded by paid sponsorships from <a href="mailto:support@bowhip.org">investors</a>.<br>
  - Clear API guidelines for third-party Addon development.<br>
 <br><br>

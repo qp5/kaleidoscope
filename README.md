@@ -1,10 +1,6 @@
-<table>
-<tr>
-<td align="center" bgcolor="#0074D9">
-<font color="white" size="6"><b>kaleidoscope</b></font>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/kaleidoscope-banner.png" alt="Kaleidoscope Banner" width="100%">
+</p>
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
 ![Status: In Development](https://img.shields.io/badge/status-active-brightgreen)
 ![Open to Contributions](https://img.shields.io/badge/contributions-welcome-orange)

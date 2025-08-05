@@ -2,12 +2,11 @@
 Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a> 
 <!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->
 <br>
-###Project
-**Kaleidoscope** (code name) is a **mobile-first platform** that fuses **streaming** and **dynamic content delivery** with **WebRTC-powered peer-to-peer interaction**.
-
-Featuring:  
-– **Relatable AI**  
-– **User-powered extensions** (Add-ons)
+### Project
+<strong>Kaleidoscope</strong> (code name) is a <strong>mobile-first platform</strong> that fuses <strong>streaming</strong> and <strong>dynamic content delivery</strong> with <strong>WebRTC-powered peer-to-peer interaction</strong>.<br><br>
+Featuring:<br>
+– <strong>Relatable AI</strong><br>
+– <strong>User-powered extensions</strong> (Add-ons)
 
 
 <br><br><br>__________________________<br><br><br>

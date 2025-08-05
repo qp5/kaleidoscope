@@ -12,7 +12,7 @@ Featuring:<br>
 <br><br>__________________________<br><br>
 
 
-<span style="font-size: 9px;">FEATURING:</span><br>
+<span style="font-size: 7px;">FEATURING:</span><br>
 – <strong>Relatable AI</strong><br>
 – <strong>User-powered extensions</strong> (Add-ons)
 

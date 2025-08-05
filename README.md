@@ -5,10 +5,11 @@
 </td>
 </tr>
 </table>
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
 ![Status: In Development](https://img.shields.io/badge/status-active-brightgreen)
 ![Open to Contributions](https://img.shields.io/badge/contributions-welcome-orange)
-![s](https://img.shields.io/badge/investors-wanted-yellow)
+![Looking for Investors](https://img.shields.io/badge/investors-wanted-yellow)
+
 
 
 # kaleidoscope 

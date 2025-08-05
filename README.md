@@ -9,17 +9,10 @@ Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>�
 Featuring:<br>
 – <strong>Relatable AI</strong><br>
 – <strong>User-powered extensions</strong> (Add-ons)
-<br><br>__________________________<br><br>
-
-
-<span style="font-size: 7px;">FEATURING:</span><br>
-– <strong>Relatable AI</strong><br>
-– <strong>User-powered extensions</strong> (Add-ons)
 
 
 
-
-<br><br><br><br>
+<br><br>
 
 ### Project
 Kaleidoscope (code name) is a mobile-first platform combining Content delivery, relatable AI, Addons (User Extensions). Open-source App for both individuals and organizations. 

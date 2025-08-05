@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="assets/kaleidoscope-banner.png" alt="Kaleidoscope Banner" width="100%">
-</p>
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
-![Status: In Development](https://img.shields.io/badge/status-active-brightgreen)
-![Open to Contributions](https://img.shields.io/badge/contributions-welcome-orange)
-![Looking for Investors](https://img.shields.io/badge/investors-wanted-yellow)
-
-
-
 # kaleidoscope 
 Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a></br></br> 
 <!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->

@@ -18,9 +18,11 @@ A fun social platform delivering tools for self-discovery & insight.<br>
 <br><br><br>
 
 ## Goals<br>
- - App goals, encourage community-driven growth and monetization through premium features.<br>
- - Community <a href="mailto:support@bowhip.org">contributions</a> funded by paid sponsorships from <a href="mailto:support@bowhip.org">investors</a>.<br>
+ - App goals, encourage community-driven growth.<br>
  - Clear API guidelines for third-party Addon development.<br>
+ - Community <a href="mailto:support@bowhip.org">contributions</a> funded by paid sponsorships from <a href="mailto:support@bowhip.org">investors</a>.<br>
+ - Possibly monetize through premium features.<br>
+
 <br><br>
 
 

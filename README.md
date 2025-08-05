@@ -1,6 +1,7 @@
 # kaleidoscope 
 <p align="center" style="font-size: 15px; font-weight:bold;">kaleidoscope</p>
 <strong align="center" style="font-size: 25px;">kaleidoscope</strong><br>
+<p align="center" style="font-size:2em; font-weight:bold;">kaleidoscope</p>
 
 <hr style="height:4px; background-color:#fff; border:none;">
 Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a></br></br> 

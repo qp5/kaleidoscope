@@ -1,4 +1,5 @@
 # kaleidoscope 
+<hr style="height:4px; background-color:#0074D9; border:none;">
 Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a></br></br> 
 <!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->
 

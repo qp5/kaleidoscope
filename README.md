@@ -10,19 +10,7 @@ Featuring:<br>
 – <strong>Relatable AI</strong><br>
 – <strong>User-powered extensions</strong> (Add-ons)
 
-
-
 <br><br>
-
-### Project
-Kaleidoscope (code name) is a mobile-first platform combining Content delivery, relatable AI, Addons (User Extensions). Open-source App for both individuals and organizations. 
-<br><br>
-
-DEVELOPER
- - Cross-plattfom build. Open source development to foster community contribution.
-      - <b>Dev Path:</b>  Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python & option: Pocketbase for user mgt.
- - Third-party Addons: Developers can create github copilot integrated Addons of own code laungage to extend app functionality | Addon metrics dashboard.<br>
-   📫 View <a href="mailto: support@bowhip.org">project</a> <br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 ## Mission of project<br>

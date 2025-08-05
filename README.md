@@ -14,8 +14,7 @@ Featuring:<br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 ## Mission of project<br>
-1. A social app to empower self-discovery fostering self insight.<br>
-3. For Organizations: To support them in empowering their members and observing world impact, offering tools and materials to those goals.
+A fun social platform delivering tools for self-discovery & insight.<br>
 <br><br><br>
 
 ## Goals<br>

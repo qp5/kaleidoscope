@@ -41,7 +41,7 @@ Beyond funding, we welcome strategic partners who can help develop network, impr
 
 ## Available License<br>
 GPL-3.0: Free for personal and open-source use.<br>
-Commercial License (for profit use): <a href="mailto:support@bowhip.org">Contact us</a>.<br>
+Commercial License (for profit use)<br>
 Third-party Addons: Supports both open-source and private licenses.<br><br>
 
 We look forward to hearing from you! Whether you’re a seasoned developer or just starting, contribute to the core app or create Addons in your preferred language.

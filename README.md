@@ -15,7 +15,7 @@ Featuring:<br>
 DEVELOPER
  - Cross-plattfom build. Open source development to foster community contribution.
       - <b>Stack Path:</b>  Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python & option: Pocketbase for user mgt.
- - Third-party Addons: Developers can create github copilot integrated Addons of own code laungage to extend app functionality | Addon metrics dashboard.<br>
+ - Third-party Addons: Developers can create github copilot integrated Addons of own code laungage to extend app functionality |Addon dashboard.<br>
    📫 View <a href="mailto: support@bowhip.org">project</a> <br><br><br>
    
 ## Mission of project<br>

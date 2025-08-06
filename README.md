@@ -5,11 +5,12 @@ Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>�
 
 ### Project
 <strong>Kaleidoscope</strong> (code name) blends <strong>streaming, dynamic content,</strong> with <strong>real-time peer-to-peer connections</strong> into one <strong>mobile-first</strong> experience. With groundwork underway, <strong>core development</strong> is set to begin late-2025. <br>
-<a href="mailto: support@bowhip.org">drop us a note</a> — we’ll connect as code, collaborator, positions open, including beta access.<br><br>
+<br>
 
 Featuring:<br>
 – <strong>Relatable AI</strong><br>
-– <strong>User-powered extensions</strong> (Add-ons)
+– <strong>User-powered extensions</strong> (Add-ons)<br>
+<a href="mailto: support@bowhip.org">drop us a note</a> — we’ll connect as code, collaborator, positions open, including beta access.
 
 <br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->

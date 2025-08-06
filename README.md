@@ -34,7 +34,7 @@ Each addon will exist within individual GitHub repos. Major coding languages are
 
 
 ## Investors<br>
-Join us in shaping Kaleidoscope’s future.  <a href="mailto: support@bowhip.org">Contact us</a> for more details and or a pitch deck.
+Join us in shaping Kaleidoscope’s future.  <a href="mailto: support@bowhip.org">Contact us</a> for more details and or a pitch deck.<br>
 Beyond funding, we welcome strategic partners who can help develop network, improve technology, and scale adoption. <a href="mailto: support@bowhip.org">Get in touch</a>
 <br><br>
 

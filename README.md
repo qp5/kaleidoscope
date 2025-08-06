@@ -1,5 +1,4 @@
-# kaleidoscope 
-<hr style="color:blue; height:4px;">
+# kaleidoscope
 Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>  |   <a href="mailto:support@bowhip.org">collaborators</a>  |  <a href="mailto:support@bowhip.org">investors</a></br></br> 
 <!--Join our community <a href="mailto:support@bowhip.org">coders</a> |  <a href="mailto:support@bowhip.org">collaborators</a> |  <a href="mailto:support@bowhip.org">investors</a-->
 
@@ -38,9 +37,8 @@ Each addon will exist within individual GitHub repos. Major coding languages are
 
 
 ## Investors<br>
-While this is an open-source project, there is potential for monetization through premium features, addons, and community growth.  .
-
-If you’re interested in investing in a scalable and AI-powered platform with a growing user base, we’d love to. <a href="mailto: support@bowhip.org">Contact us</a> for more details or a pitch deck.
+Join us in shaping Kaleidoscope’s future.  <a href="mailto: support@bowhip.org">Contact us</a> for more details and or a pitch deck.
+Beyond funding, we welcome strategic partners who can help develop network, improve technology, and scale adoption. <a href="mailto: support@bowhip.org">Get in touch</a>
 <br><br>
 
 

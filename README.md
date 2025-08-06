@@ -44,14 +44,13 @@ GPL-3.0: Free for personal and open-source use.<br>
 Commercial License (for profit use): <a href="mailto:support@bowhip.org">Contact us</a>.<br>
 Third-party Addons: Supports both open-source and private licenses.<br><br>
 
-Join!
 We look forward to hearing from you! Whether you’re a seasoned developer or just starting, contribute to the core app or create Addons in your preferred language.
 
 📫 Contact: support@bowhip.org | Adkinscc@gmail.com
 
 
 ## Join Us!<br>
-I look forward to hearing from you. Assist with app core, develop Addons of your language, Affilate, Invest, Partner.<br>
+Look forward to hearing from you. Assist with app core, develop Addons of your language, Affilate, Invest, Partner.<br>
 📫 Contact: support@bowHip.org | Adkinscc@gmail.com<br>
 
 

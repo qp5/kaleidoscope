@@ -12,6 +12,12 @@ Featuring:<br>
 – <strong>User-powered extensions</strong> (Add-ons)<br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
+DEVELOPER
+ - Cross-plattfom build. Open source development to foster community contribution.
+      - <b>Stack Path:</b>  Flutter | Android Studio | IntelliJ + GitHub Copilot | Supabase + Python & option: Pocketbase for user mgt.
+ - Third-party Addons: Developers can create github copilot integrated Addons of own code laungage to extend app functionality | Addon metrics dashboard.<br>
+   📫 View <a href="mailto: support@bowhip.org">project</a> <br><br><br>
+   
 ## Mission of project<br>
 A fun social platform delivering tools for self-discovery & insight.<br>
 <br><br><br>
@@ -20,14 +26,7 @@ A fun social platform delivering tools for self-discovery & insight.<br>
  - App goals, encourage community-driven growth.<br>
  - Clear API guidelines for third-party Addon development.<br>
  - Community <a href="mailto:support@bowhip.org">contributions</a> funded by paid sponsorships from <a href="mailto:support@bowhip.org">investors</a>.<br>
-
 <br><br>
-
-
-Start Day<br>
-Groundwork development is <a href="mailto:support@bowhip.org">active now</a>, the Flutter build scheduled to begin April 2025; anticipated app store release June-July 2025.
-<br><br>
-
 
 Addon Development<br>
 Each addon will exist within individual GitHub repos. Major coding languages are acceptable; core app will integrate addons within platform (support for iOS and Android). Tools for code conversion between platforms can be used to ease process for developers.

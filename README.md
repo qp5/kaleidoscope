@@ -10,7 +10,8 @@ Recieve email of status. Look fwd to connect as oportunity and positions open; c
 
 Featuring:<br>
  – <strong>Relatable AI</strong><br>
- – <strong>User-powered extensions</strong> (Add-ons)<br><br><br>
+ – <strong>Insight Clips</strong><br>
+ – <strong>User-powered extensions</strong> (Add-ons) & open widgets<br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 DEVELOPER

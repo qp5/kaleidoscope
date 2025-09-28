@@ -5,7 +5,7 @@ Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>�
 
 ### Project
 <strong>Kaleidoscope</strong> (code name) is a <strong>mobile-first</strong> platform that blends <strong>streaming dynamic content</strong> together with WebRTC-powered <strong>peer-to-peer</strong> interaction. Groundwork is underway, project is set to begin 2026.
-<a href="mailto: support@bowhip.org">drop us a note</a> — we’ll connect as code, collaborator, positions open, including beta access.<br><br>
+<a href="mailto: support@bowhip.org">drop us a note</a> — <a href="mailto: support@bowhip.org">Get contacted</a> of project status. Look fwd to connect as oportunity and positions open; code, collaborator, vest, including beta access.<br><br>
 
 Featuring:<br>
  – <strong>Relatable AI</strong><br>

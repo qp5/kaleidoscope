@@ -8,10 +8,10 @@ Let’s Build Together!  📫 <a href="mailto:support@bowhip.org">coders</a>�
 <a href="mailto: support@bowhip.org">Drop us a note</a> — <a href="mailto: support@bowhip.org">Get contacted</a><br> 
 Recieve email of status. Look fwd to connect as oportunity and positions open; code, collaborator, vest, including beta access.<br><br>
 
-Featuring:<br>
- – <strong>Relatable AI</strong><br>
- – <strong>Insight Clips</strong><br>
- – <strong>User-powered extensions</strong> (Add-ons) & open widgets<br><br><br>
+<strong>Featuring:</strong><br>
+ – Relatable AI<br>
+ – Insight Clips<br>
+ – User-powered extensions (Add-ons) & open widgets<br><br><br>
 <!--- Supabase & Python backend. Real-time data syncing, analytics.-->
 
 DEVELOPER
